@@ -13,6 +13,9 @@ License: GPLv2 or later
 Text Domain: Widget Spinner
 */
 
+if( ! defined( 'ABSPATH') ) {
+	exit;
+}
 
 add_action('wp_enqueue_scripts', 'scripts');
 add_action('wp_enqueue_scripts', 'styles');
