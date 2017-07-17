@@ -2,6 +2,6 @@
 WP Widget Spinner plugin
 
 
-Install & Activate. Enjoy
+Download & Activate. Enjoy
 
 What have I done
