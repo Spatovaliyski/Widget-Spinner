@@ -1,0 +1,15 @@
+.widget-spinner {
+  display: block;
+  border: 1px solid #000;
+  border-radius: 90%;
+  animation: spinner 0.1s 0s infinite;
+}
+
+@keyframes spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
